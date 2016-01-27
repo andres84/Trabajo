@@ -14,6 +14,7 @@ public class Trabajo1 {
    
     String nombre;
     int valor;
+    double dato;
     
     public static void main(String[] args) {
         // TODO code application logic here
@@ -22,6 +23,7 @@ public class Trabajo1 {
     public String getNombre(){
         return nombre;
     }
+    
     
     
     
