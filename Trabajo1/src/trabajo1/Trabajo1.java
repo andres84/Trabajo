@@ -23,8 +23,7 @@ public class Trabajo1 {
         return nombre;
     }
     
-    public int getValor(){
-       
-       return valor;
-    }
+    
+    
+    
 }
