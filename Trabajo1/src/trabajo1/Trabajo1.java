@@ -25,7 +25,9 @@ public class Trabajo1 {
         return nombre;
     }
     
-    
+    public Double getDato(){
+        return dato;
+    }
     
     
     
