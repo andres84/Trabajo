@@ -11,11 +11,16 @@ package trabajo1;
  */
 public class Trabajo1 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
+    String nombre;
+    int valor;
+    
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+    
+    public String getNombre(){
+        return nombre;
     }
     
 }
